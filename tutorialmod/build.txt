@@ -1,0 +1,3 @@
+author = Darkbane
+version = 0.1
+displayName = tutorial mod
